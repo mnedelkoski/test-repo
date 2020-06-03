@@ -1,2 +1,3 @@
-# test-repo
-This is GIT testing repository
+$(document).ready(function(e) {
+	console.log("ZDRAVO");
+});
