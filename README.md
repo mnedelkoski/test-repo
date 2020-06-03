@@ -1,3 +1,4 @@
-$(document).ready(function(e) {
-	console.log("ZDRAVO");
-});
+# test-repo
+This is GIT testing repository
+
+THIS IS A CHANGE I WANT TO SEE REMOTELY.
